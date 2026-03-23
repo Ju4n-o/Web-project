@@ -1,0 +1,80 @@
+body {
+    background-color: #002E5D;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 17px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: darkorange;
+}
+
+.navigation {
+    align-items: center;
+    width: 100%;
+    background-color: #EF7622;
+}
+
+.intro {
+    background-position: 100%, 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.a {
+    text-align: center;
+    font-size: 50px;
+}
+
+.b {
+    text-align: center;
+}
+
+.information,
+th.information,
+td.information {
+    align-items: center;
+}
+
+th.information {
+    width: 50%;
+}
+
+.decoration {
+    border: 10px dotted #D1D3D4;
+    height: 250px;
+    width: 390px;
+}
+
+.images {
+    text-align: center;
+    margin: auto;
+}
+
+.concert {
+    text-align: center;
+}
+
+th.concert,
+td.concert,
+.concert {
+    border: 10px solid #EF7622;
+    margin: auto;
+    text-align: center;
+    font: bold;
+    background-color: #EF7622;
+    width: 100%;
+}
